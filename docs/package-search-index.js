@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"bibtexparser"},{"l":"bibtexparser.bibliography"},{"l":"bibtexparser.category"},{"l":"bibtexparser.commandline"},{"l":"bibtexparser.exceptions"},{"l":"bibtexparser.field"},{"l":"bibtexparser.parser"},{"l":"bibtexparser.prettifier"},{"l":"test"}]

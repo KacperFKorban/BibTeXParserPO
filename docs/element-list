@@ -1,0 +1,9 @@
+bibtexparser
+bibtexparser.bibliography
+bibtexparser.category
+bibtexparser.commandline
+bibtexparser.exceptions
+bibtexparser.field
+bibtexparser.parser
+bibtexparser.prettifier
+test
